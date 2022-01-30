@@ -1,0 +1,121 @@
+body { background-color: #FDDDB8;
+margin: 0;
+}
+
+div { background-color:#FFBD61;
+
+
+}
+
+
+/*************************classes*********************/
+.top_screen {
+  margin-top: 0;
+  color :#543A00; }
+
+  .top_screen_css {
+    margin-top: 0;
+    color :#004961; }
+
+  .html{ height:600px;
+    width: 900px ;
+    background-image: url("https://pbs.twimg.com/media/FKM1-RCXsAIg5RE?format=jpg&name=900x900");
+    position: relative;
+    left: 50px;
+  }
+
+  .itc {
+      color: #543A00;
+      text-decoration: none;
+      background-color: #FFA43D;
+      border-left-width: 200px;
+     padding-right: 100px;
+     padding-left: 100px;
+     left: 0px;
+     right: 0px;
+     padding-bottom: 20px;
+     bottom: 0px;
+     top: 500px;
+     font-size: 60px;
+
+       position: absolute;
+       bottom: 0px ;
+
+
+
+  }
+  .css{ height:600px;
+    width: 900px ;
+    background-image: url("https://pbs.twimg.com/media/FKM1-Q-WUAEyOoB?format=jpg&name=900x900");
+    position: relative;
+    left: 50px;
+  }
+  .js{ height:600px;
+    width: 900px ;
+    background-image: url("https://pbs.twimg.com/media/FKM1-Q-X0AYdkVj?format=jpg&name=900x900");
+    position: relative;
+    left: 50px;
+  }
+
+
+
+.hr_html { color:#93252C;
+  border-top-color: #93252C;
+  border-right-color: #93252C;
+  border-bottom-color:#93252C;
+  border-left-color: #93252C;
+  background-color:#93252C;
+
+}
+.hr_css { color:#01A5DB;
+  border-top-color: #01A5DB;
+  border-right-color: #01A5DB;
+  border-bottom-color:#01A5DB;
+  border-left-color: #01A5DB;
+  background-color:#01A5DB;
+
+}
+
+.hr_jv { color:#EDC65C;
+  border-top-color: #EDC65C;
+  border-right-color: #EDC65C;
+  border-bottom-color:#EDC65C;
+  border-left-color: #EDC65C;
+  background-color:#EDC65C;
+
+}
+
+
+.lp{
+      padding-right: 10px;
+}
+
+
+
+  /***********************************id*****************************/
+  #cssblue {color: #0A2A42;
+        background-color: #2499FF;
+  }
+  #jsyellow {background-color:#F8D12D;
+color: #2E2608;
+
+  }
+  #html_bg { background-color: #FFBD8A;
+
+  }
+  #html_top_div { background-color: #FF9042;
+
+  }
+  #css_bg {
+    background-color: #B6CCF2;
+  }
+  #css_top_div{
+    background-color: #66A8F2;
+  }
+
+#jv_bg {background-color: #F7F7AB;
+}
+
+#jv_top_div {
+  background-color:#F7DE60;
+}
